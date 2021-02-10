@@ -3,32 +3,32 @@
 ## Here are User Interfaces for ugram application
 
 ### Sign Up
-[Ugram - Sign Up](assets/SignUp.png)
+![Ugram - Sign Up](assets/SignUp.png)
 
 
 ### Sign In
-[Ugram - Sign In](assets/SignIn.png)
+![Ugram - Sign In](assets/SignIn.png)
 
 
 ### Settings
-[Ugram - Settings](assets/SettingsPage.png)
+![Ugram - Settings](assets/SettingsPage.png)
 
 
 ### Home Page
-[Ugram - Home Page](assets/HomePage.png)
+![Ugram - Home Page](assets/HomePage.png)
 
 
 ### Home Page Alt
-[Ugram - Home Page Alt](assets/HomePageAlt.png)
+![Ugram - Home Page Alt](assets/HomePageAlt.png)
 
 
 ### Home Page Dropdown
-[Ugram - Home Page Dropdown](assets/HomePageDropdown.png)
+![Ugram - Home Page Dropdown](assets/HomePageDropdown.png)
 
 
 ### Profile Page
-[Ugram - Profile Page](assets/ProfilePage.png)
+![Ugram - Profile Page](assets/ProfilePage.png)
 
 
 ### Results Page
-[Ugram - Results Page](assets/ResultsPage.png)
+![Ugram - Results Page](assets/ResultsPage.png)
